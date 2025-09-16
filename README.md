@@ -1,6 +1,6 @@
 # Hi, I'm Kennedy Marren
 
-💻 **Computer Science Student | Developer | Designer**
+**Computer Science Student | Developer | Designer**
 
 ---
 
