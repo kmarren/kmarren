@@ -38,5 +38,6 @@
 ---
 
 ## Connect With Me
-- [marrenkennedyc@gmail.com](mailto:marrenkennedyc@gmail.com)  
+- [marrenkennedyc@gmail.com](mailto:marrenkennedyc@gmail.com)
+- www.linkedin.com/in/kennedy-marren-3b7225351 
 - Columbia, SC   
