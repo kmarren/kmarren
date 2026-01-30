@@ -7,33 +7,22 @@
 ## About Me
 - **University of South Carolina** (B.S. in Computer Science, Minor in Mathematics, Class of 2026)  
 - **GPA:** 3.8  
-- Interests: algorithms, software engineering, mobile app development, and design  
-- Background in **graphic design** and **3D modeling**
-- Member of **Kappa Theta Pi** Professional Fraternity specializing in the field of information technology. 
+- Interests: UI/UX design, full stack development, and building thoughtful, user-centered products
+- Background in **software engineering**, **graphic design** and **3D modeling**
 - Player on the **Women’s Club Rugby team**  
 
 ---
 
 ## Skills & Tools
-- **Programming:** Java, C++, Python  
-- **Web:** HTML, CSS  
-- **Design & Modeling:** SketchUp, Rhino, Adobe Photoshop, Procreate  
-- **Other:** Software Engineering, Data Structures & Algorithms, Mobile Application Development  
+- **Languages & Frameworks:** Java, C++, Python, Kotlin, HTML, CSS, React
+- **Design & Modeling:** SketchUp, Rhino, Adobe Creative Suite, Wordpress
 
 ---
 
-## Experience
-- **Web Design & 3D Modeling** @ Sparrow Construction  
-  Redesigned branding and website, increasing traffic by **329%**, and built 3D models for renovation planning.  
-- **Freelance Graphic Designer**  
-  Created custom logos and worked directly with clients to refine designs.  
-
----
-
-## Currently Learning
-- Advanced C++ and algorithm optimization  
-- Android development with Java  
-- Software engineering best practices  
+Before and alongside software development, I’ve worked in graphic design, branding, 3D modeling, and web design, including:
+Redesigning branding and websites to increase user engagement
+Creating 3D models and floor plans for interior renovation projects
+Producing custom artwork through collaborative design workflows 
 
 ---
 
