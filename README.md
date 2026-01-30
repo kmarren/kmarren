@@ -20,9 +20,9 @@
 ---
 
 Before and alongside software development, I’ve worked in graphic design, branding, 3D modeling, and web design, including:
-Redesigning branding and websites to increase user engagement
-Creating 3D models and floor plans for interior renovation projects
-Producing custom artwork through collaborative design workflows 
+- Redesigning branding and websites to increase user engagement
+- Creating 3D models and floor plans for interior renovation projects
+- Producing custom artwork through collaborative design workflows 
 
 ---
 
